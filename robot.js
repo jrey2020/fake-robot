@@ -2,7 +2,7 @@
 const { Client } = require("@googlemaps/google-maps-services-js");
 
 // 🔑 Replace with your real Google Maps API key
-const API_KEY = "AIzaSyBJM6_l2bPkz_BZt3ad_zd7n348sRH7ktoY";
+const API_KEY = "AIzaSyCiRUnEyFC8qBI4P6XnNihuyLEzXx_pi4o";
 const client = new Client({});
 
 // ✅ Sync with backend
